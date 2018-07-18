@@ -1,4 +1,5 @@
-![](./images/logo.png)
+//![](./images/logo.png)
+<img src="./images/logo.png" width="50%" height="50%">
 
 ## Welcome to Play My App
 
